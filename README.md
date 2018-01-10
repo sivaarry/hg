@@ -1,0 +1,2 @@
+# hg
+hello git
